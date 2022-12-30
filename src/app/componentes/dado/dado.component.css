@@ -1,0 +1,26 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+    height: 61.2em;
+  background: url(https://wallpaperaccess.com/full/782955.jpg);
+}
+.dado{
+  text-align: center;
+  color: white;
+  background-color: red;
+  font-size: 120px;
+  width: 200px;
+  height: 200px;
+  margin-left: 47%;
+}
+.button{
+  margin-left: 46%;
+}
+
+
+
+
+
+
